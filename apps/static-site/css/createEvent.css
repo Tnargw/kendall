@@ -1,0 +1,20 @@
+.bordered-form {
+    border: 2px solid var(--color-on-background);
+    padding: 2em;
+    padding-top: 0;
+    border-radius: 2em;
+    max-width: 30em;
+    margin: auto;
+  }
+
+input, select {
+    border: none;
+    background-color: rgb(234, 234, 234);
+    border-radius: 5px;
+    padding: 7px;
+    margin-top: 5px;
+}
+
+label {
+    padding: 7px;
+}
